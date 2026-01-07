@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "51de4130932fdc96ff6c703f1d6fa2c0cfda04454d3e2ec5501220ac6eb6c133"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "065fa7e25b320ae38b96f36d91f5f34aab9b9669cb9c98721a5f566ff3b585ed"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "527441f56f12bd48d63de82dc5acec0a371fcaf4d2b21ec6975019b4dc79a5d3"
+metafile = true

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "eaf325e2c110be3577506243acd51763ca11ccf5bab64be20040cbdd38b044b7"
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "51de4130932fdc96ff6c703f1d6fa2c0cfda04454d3e2ec5501220ac6eb6c133"
 metafile = true
